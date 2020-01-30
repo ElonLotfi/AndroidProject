@@ -1,0 +1,15 @@
+Bilan des fonctionnalités : 
+
+L’entrainement en mode hors-ligne a été réalisé
+Des réparations de bugs ont eu lieu, lors de la recherche d’un adversaire. Cependant des bugs existent encore lors de l’envoi d’un coup à un autre joueur
+La forme triangle n’a pas encore été réalisé
+Bilan de l’itération sur les tests :
+
+Des tests ont été rajoutés :
+
+	Les tests sur la rotation du carré sur android
+	La gestion des échelles pour les formes a été réalisée
+	De nouveaux test android ont été fait sur le segment
+
+Prévision prochaine itération : 
+Rajouter le score, le round, la fin de partie dans le jeu. Faire les statistiques du joueur et réalisé la forme triangle et polygone.
