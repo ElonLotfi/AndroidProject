@@ -28,22 +28,6 @@
 
 
 
-## Gestion de projet 
-
-Itérations prévues :
-
-	Implémentation du jeu pierre-feuille-ciseaux
-	Implémentation d’un jeu en ligne entre 2 joueurs
-	Implémenté un robot
-Itérations modifiées :
-
-	Implémentation d’un jeu en ligne entre 2 joueurs
-	Entrainement hors-ligne
-	Score attribué aux joueurs en fin de partie
-	Polygone
-	Statistiques des joueurs
-	Gérer les symétries pour les formes
-
 
 
 
