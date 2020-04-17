@@ -2,7 +2,7 @@
 ## Développement d'un jeu de reconnaissance de forme
 
 ![](https://raw.githubusercontent.com/JugheadTn/PLFGB/master/documentation/IHM/Maquette/IT9/4.png?token=AKRWO7WPFCCDGV3BKBC6TYK6UNNNE)
-![](https://raw.githubusercontent.com/JugheadTn/PLFGB/master/documentation/IHM/Maquette/IT9/3.png?token=AKRWO7SDCTHI5I3WJC3S3226UNNKK)
+
 
 ### Technologie utilisée : 
 	 Android
